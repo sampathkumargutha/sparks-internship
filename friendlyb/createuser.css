@@ -1,0 +1,70 @@
+.centertext{
+	font-size: 30;
+	padding-top: 100px;
+	color: blue;
+	padding-left: 500px;
+
+}
+.inputsname{
+	display: felx;
+	font-size: 18;
+  color: #e60000;
+  padding-top: 50px;
+  padding-left: 400px;
+}
+.bgimg{
+	width: 100%;
+	height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+input{
+	width: 200px;
+	height: 25px;
+
+}
+.input1{
+	margin-left: 25px;
+}
+.input2{
+	margin-left: 22px;
+}
+.createandreset{
+       background: none;
+  border: none;
+  margin-left: 20px;
+  color: #666;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+}
+
+.createclass{
+        background: none;
+  border: none;
+  margin-left: 20px;
+  color: #666;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+	fontsize: 20;
+	color: red;
+	margin-top: 20px;
+	margin-left: 350px;
+}
+.resetclass{
+     background: none;
+  border: none;
+  margin-left: 20px;
+  color: #666;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+	fontsize: 20;
+	color: red;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 20px;
+}
+
